@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ty
 
-<!--
-**ty-dwyer/ty-dwyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate 
+💻 Interested in software development, networking, and backend systems
+🚀 Always learning and building new things
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,flutter,linux,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ty-dwyer&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ty-dwyer&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+
+---
+## My Favorite Projects
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=Data-Pipeline&theme=github_dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=lockerSystem&theme=github_dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=WebCrawler&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ty-dwyer-00a761223/)
+- 📧 Email: *tdwyer.dev@gmail.com*
+
+---
+
+⭐️ *Thanks for checking out my profile!*
