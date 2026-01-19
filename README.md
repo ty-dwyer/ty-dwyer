@@ -18,20 +18,20 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ty-dwyer/Data-Pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=Data-Pipeline&theme=github_dark" />
+      <a href="https://github.com/ty-dwyer/data_pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=data_pipeline&theme=github_dark" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/ty-dwyer/lockerSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=lockerSystem&theme=github_dark" />
+      <a href="https://github.com/ty-dwyer/locker_system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=locker_system&theme=github_dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ty-dwyer/WebCrawler">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=WebCrawler&theme=github_dark" />
+      <a href="https://github.com/ty-dwyer/web_crawler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=web_crawler&theme=github_dark" />
       </a>
     </td>
     <td></td>
