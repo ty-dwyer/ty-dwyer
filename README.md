@@ -15,9 +15,28 @@
 
 ---
 ## My Favorite Projects
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=Data-Pipeline&theme=github_dark)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=lockerSystem&theme=github_dark)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=WebCrawler&theme=github_dark)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ty-dwyer/Data-Pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=Data-Pipeline&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ty-dwyer/lockerSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=lockerSystem&theme=github_dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ty-dwyer/WebCrawler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ty-dwyer&repo=WebCrawler&theme=github_dark" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
