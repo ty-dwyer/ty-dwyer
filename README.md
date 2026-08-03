@@ -4,7 +4,7 @@
  Interested in software development, networking, and backend systems
  Always learning and building new things
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,flutter,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,flutter,spring,linux,github)](https://skillicons.dev)
 
 
 ---
